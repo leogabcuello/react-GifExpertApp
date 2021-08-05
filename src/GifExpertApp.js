@@ -4,11 +4,7 @@ import { GrifGrid } from './components/GrifGrid';
 
 export const  GifExpertApp = () =>{
 
-    const [categories, setCategories] = useState(['One punch']);
-
-    // const handleAdd = () => {
-    //      setCategories( categ => [...categ, 'Humterapp']);
-    // }
+    const [categories, setCategories] = useState(['Dragon Ball']);
     
     return (
         <>
